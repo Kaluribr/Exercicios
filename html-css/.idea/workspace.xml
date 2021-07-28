@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b161ec-57d3-45a9-a8f7-58a2dfff345f" name="Default Changelist" comment="Cores em Css e link para stule.css">
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex017/fonte01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex018/fonte01.html" afterDir="false" />
+    <list default="true" id="a3b161ec-57d3-45a9-a8f7-58a2dfff345f" name="Default Changelist" comment="Css&#10;Ainda sobre Fontes">
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex018/fonte02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex018/love larry ttf.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/ex016/Cores3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex016/Cores3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex018/fonte01.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex018/fonte01.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,15 +58,13 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,7 +88,9 @@
       <workItem from="1627166656868" duration="3951000" />
       <workItem from="1627250685719" duration="5301000" />
       <workItem from="1627341996528" duration="2183000" />
-      <workItem from="1627347717361" duration="8482000" />
+      <workItem from="1627347717361" duration="8628000" />
+      <workItem from="1627365596064" duration="5000" />
+      <workItem from="1627426841128" duration="4172000" />
     </task>
     <task id="LOCAL-00001" summary="Formatações com as tags:&#10;&#10;&lt;code&gt; e &lt;pre&gt;,&lt;code&gt; &#10;&lt;blockquote&gt;&#10;&lt;abbr&gt;&#10;&lt;bdo dir=&quot;rtl&quot;&gt;">
       <created>1626147010019</created>
@@ -204,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627356618248</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Css&#10;Ainda sobre Fontes">
+      <created>1627365234409</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1627365234409</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +244,7 @@
     <MESSAGE value="Cores em Css e suas representações" />
     <MESSAGE value="Cores em Css e Gradientes" />
     <MESSAGE value="Cores em Css e link para stule.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cores em Css e link para stule.css" />
+    <MESSAGE value="Css&#10;Ainda sobre Fontes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Css&#10;Ainda sobre Fontes" />
   </component>
 </project>
