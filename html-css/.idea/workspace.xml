@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b161ec-57d3-45a9-a8f7-58a2dfff345f" name="Default Changelist" comment="Css&#10;ID, class, hover e div uso de :">
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex020/links.html" afterDir="false" />
+    <list default="true" id="a3b161ec-57d3-45a9-a8f7-58a2dfff345f" name="Default Changelist" comment="Css&#10;ID, class, hover e div uso de :&#10;&#10;#  = id&#10;        .  = class&#10;        :  = pseudo-class&#10;        :: = pseudo-element&#10;        &gt;  = children">
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex021/caixa01.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,8 @@
       <workItem from="1627426841128" duration="5200000" />
       <workItem from="1627482387789" duration="6236000" />
       <workItem from="1627514106757" duration="523000" />
-      <workItem from="1627514863414" duration="6135000" />
+      <workItem from="1627514863414" duration="7160000" />
+      <workItem from="1627526626951" duration="1628000" />
     </task>
     <task id="LOCAL-00001" summary="Formatações com as tags:&#10;&#10;&lt;code&gt; e &lt;pre&gt;,&lt;code&gt; &#10;&lt;blockquote&gt;&#10;&lt;abbr&gt;&#10;&lt;bdo dir=&quot;rtl&quot;&gt;">
       <created>1626147010019</created>
@@ -219,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627519810245</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Css&#10;ID, class, hover e div uso de :&#10;&#10;#  = id&#10;        .  = class&#10;        :  = pseudo-class&#10;        :: = pseudo-element&#10;        &gt;  = children">
+      <created>1627521774261</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1627521774262</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +263,7 @@
     <MESSAGE value="Css&#10;Ainda sobre Fontes" />
     <MESSAGE value="Css&#10;Id e class" />
     <MESSAGE value="Css&#10;ID, class, hover e div uso de :" />
-    <option name="LAST_COMMIT_MESSAGE" value="Css&#10;ID, class, hover e div uso de :" />
+    <MESSAGE value="Css&#10;ID, class, hover e div uso de :&#10;&#10;#  = id&#10;        .  = class&#10;        :  = pseudo-class&#10;        :: = pseudo-element&#10;        &gt;  = children" />
+    <option name="LAST_COMMIT_MESSAGE" value="Css&#10;ID, class, hover e div uso de :&#10;&#10;#  = id&#10;        .  = class&#10;        :  = pseudo-class&#10;        :: = pseudo-element&#10;        &gt;  = children" />
   </component>
 </project>
