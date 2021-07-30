@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b161ec-57d3-45a9-a8f7-58a2dfff345f" name="Default Changelist" comment="Css&#10;Modelo de Caixas&#10;&#10;Sintaxe grouping tags">
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/android-site.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/android.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/estilo/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/fontes/idroid.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/imagens/bugdroid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/imagens/dan-droids-pq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/imagens/dan-droids.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/imagens/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/imagens/irina-blok-pq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/d010/imagens/irina-blok.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +88,8 @@
       <workItem from="1627514106757" duration="523000" />
       <workItem from="1627514863414" duration="7160000" />
       <workItem from="1627526626951" duration="5644000" />
-      <workItem from="1627580001771" duration="7967000" />
+      <workItem from="1627580001771" duration="9277000" />
+      <workItem from="1627600104772" duration="7654000" />
     </task>
     <task id="LOCAL-00001" summary="Formatações com as tags:&#10;&#10;&lt;code&gt; e &lt;pre&gt;,&lt;code&gt; &#10;&lt;blockquote&gt;&#10;&lt;abbr&gt;&#10;&lt;bdo dir=&quot;rtl&quot;&gt;">
       <created>1626147010019</created>
@@ -255,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627592156251</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Css&#10;Modelo de Caixas&#10;&#10;Sintaxe grouping tags">
+      <created>1627596856649</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1627596856649</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
