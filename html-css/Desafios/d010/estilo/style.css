@@ -128,7 +128,7 @@ div.video{
     margin: 0 -20px 30px -20px;
     padding: 10px;
     padding-bottom: 58%;
-    position: relative;
+    position:relative;
 }
 div.video>iframe{
     position: absolute;
@@ -170,4 +170,8 @@ footer a{
 footer a:hover{
     text-decoration: underline;
     color: var(--cor1);
+}
+img.instagram{
+    height: 25px;
+    width: 25px;
 }
